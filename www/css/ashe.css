@@ -404,8 +404,8 @@ video#discover-screen-video {
 
       progress[value]::-webkit-progress-value::after {
         content: '';
-        width: 6px;
-        height: 6px;
+        width: 0;
+        height: 0;
         position: absolute;
         border-radius: 100%;
         right: 7px;
